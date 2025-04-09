@@ -20,6 +20,7 @@ llmparse is an open-source Python script developed by DiscordDigital that genera
       Example usage: `python llmparse.py <input_file.txt> --question-generator`
     - --benchmark Runs a benchmark on a python Ollama history file.\
       Example usage: `python llmparse.py <input_file.json> --benchmark`
+
 A file will be written to your current directory containing the output.
 ## Contributing
 Contribute to llmparse by forking this repository and submitting pull requests with your changes.\
